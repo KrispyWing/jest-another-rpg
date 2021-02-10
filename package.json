@@ -1,0 +1,29 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "Text Based RPG",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KrispyWing/jest-another-rpg.git"
+  },
+  "keywords": [
+    "text",
+    "based",
+    "RPG",
+    "battle",
+    "simulator"
+  ],
+  "author": "KrispyWing",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/KrispyWing/jest-another-rpg/issues"
+  },
+  "homepage": "https://github.com/KrispyWing/jest-another-rpg#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
